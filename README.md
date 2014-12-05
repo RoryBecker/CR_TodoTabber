@@ -8,7 +8,7 @@ The starting pattern may be one of:
   * // BUG:
   * // FIXME: 
 
-In fact, 'ToDo Tabber' requires only that your comment ends with a **':'** character.
+In fact, 'ToDo Tabber' requires only that your comment contains a **':'** character.
 
 This being the case it will scan all characters up to that point, and then find all other comments in your solution which start in the same way and mark these for navigation, allowing you to tab through them to your hearts content.
 
